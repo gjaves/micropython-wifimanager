@@ -1,0 +1,7 @@
+{
+   "urls": [
+       [ "wifi_manager/__init__.py", "github:gjaves/micropython-wifimanager/wifi_manager/__init__.py" ],
+       [ "wifi_manager/wifi_manager.py", "github:gjaves/micropython-wifimanager/wifi_manager/wifi_manager.py" ]
+  ],
+  "version": "0.1"
+}
